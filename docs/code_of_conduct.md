@@ -54,7 +54,7 @@ We expect participants to follow these rules at all event venues and event-relat
 
 ### Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible, by reaching out to conference organizers (laurent.gatto@uclouvain.be). 
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible, by reaching out to conference organizers (`laurent.gatto@uclouvain.be` or `charlotte.soneson@fmi.ch`). 
 
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone and we won’t tell anyone who you are.
 
