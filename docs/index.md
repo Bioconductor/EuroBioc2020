@@ -28,6 +28,8 @@ December 2020.
 - 30 Nov: Registration deadline
 - 14-18 Dec: European Bioconductor Virtual Meeting
 
+<!--
+
 ## Programme
 
 TBA.
@@ -36,7 +38,7 @@ TBA.
 
 Invited speakers will be announced soon!
 
-<!--
+
 ## Group discussions
 
 The group discussions will be based on a invited talk, and will give
