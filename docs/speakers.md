@@ -1,6 +1,10 @@
 ---
 layout: default
 speakers:
+    - name: Monica Chiogna
+      inst: University of Bologna
+      url: https://www.unibo.it/sitoweb/monica.chiogna2
+      blurb: "Monica Chiogna is Professor of Statistics at the University of Bologna. Her research interests are in the application of statistical methods to biological and medical sciences. Recent projects include evaluation of tests and biomarkers for disease screening, diagnosis, prognosis and risk prediction and the use of  graphical models as comprehensive probabilistic tools to model biological networks and to study their perturbations."
     - name: Luke Zappia
       inst: Helmholtz Zentrum München
       url: https://lazappi.id.au/
