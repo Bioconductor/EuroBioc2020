@@ -11,6 +11,10 @@ speakers:
       twitter: https://twitter.com/_lazappi_
       github: https://github.com/lazappi
       blurb: "Luke Zappia is a postdoctoral researcher in the Theis lab at the Helmholtz Zentrum München Institute of Computational Biology and the Technische Universität München. His work focuses on methods for analysing scRNA-seq data and during his PhD with Alicia Oshlack he developed the Splatter Bioconductor package for simulating scRNA-seq data."
+    - name: Elsa Bernard
+      inst: Memorial Sloan Kettering Cancer Center
+      url: https://elsab.github.io/
+      blurb: "Elsa Bernard is a research fellow in Computational Oncology at Memorial Sloan Kettering Cancer Center in Elli Papaemmanuil's group. She obtained her PhD in Bioinformatics from the Center for Computational Biology at MinesParistech/Institut Curie under the supervision of Jean-Philippe Vert. Her work focuses on the development and application of statistics and machine learning techniques to cancer genomics with a focus on hematologic malignancies. Her current project includes the molecular characterization of >3000 patients with myelodysplastic syndromes and the development of personalized prognostic and predictive risk models."
 ---
 
 {% include header.md %}

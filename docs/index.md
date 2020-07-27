@@ -19,6 +19,8 @@ Bioconductor. The goals are to:
 The main conference will take place as a Virtual Conference on 14-18
 December 2020.
 
+<!--
+
 ## Key Dates for virtual EuroBioc2020
 
 - 1 Sep: Registration opens
@@ -28,7 +30,6 @@ December 2020.
 - 30 Nov: Registration deadline
 - 14-18 Dec: European Bioconductor Virtual Meeting
 
-<!--
 
 ## Programme
 
