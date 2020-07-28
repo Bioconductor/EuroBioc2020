@@ -4,7 +4,15 @@ layout: default
 
 {% include header.md %}
 
-## Introduction
+<p align="center">
+<a href="https://eurobioc2020.bioconductor.org">
+    <img src="./images/hexsticker.png"
+         alt="EuroBioc2020"
+         width="150"
+         style="padding: 0px 30px; vertical-align: middle"
+     />
+</a>
+</p>
 
 The European _Bioconductor_ meeting is aimed at biologists,
 bioinformaticians, statisticians, programmers and software engineers
@@ -64,4 +72,23 @@ Speakers, please share you slides with your session chair in the
 tea/lunch break preceding your session. Presentations will be
 transferred to a single computer to ensure the smooth running of the
 session. It's safest to use a PDF.
+
+##  Conference Sponsors
+
+<a href="https://www.r-project.org/foundation/">
+    <img src="./images/sponsors/RConsortium_Horizontal_Pantone.png"
+         alt="R Consortium"
+         width="500"
+         style="padding: 0px 30px; vertical-align: middle"
+     />
+</a>
+
+<a href="https://www.stat.unipd.it/">
+    <img src="./images/sponsors/stat_unipd.png"
+         alt="Dept. of Statistical Sciences, University of Padova"
+         width="500"
+         style="padding: 0px 30px; vertical-align: middle"
+     />
+</a>
+
 -->
