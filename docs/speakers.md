@@ -4,13 +4,11 @@ speakers:
     - name: Holger Heyn
       inst: CNAG-CRG
       url: https://www.cnag.crg.eu/teams/genome-research-unit/single-cell-genomics-team
-      blurb: Holger Heyn is the Team Leader of the Single Cell Genomics Group at the National Centre for Genomic Analysis (CNAG-CRG) in Barcelona. His team's mission is the implementation of latest single-cell and spatial sequencing technologies and their application in a basic research (Human Cell Atlas) and translational (Immuno-oncology) context.
+      blurb: "Holger Heyn is the Team Leader of the Single Cell Genomics Group at the National Centre for Genomic Analysis (CNAG-CRG) in Barcelona. His team's mission is the implementation of latest single-cell and spatial sequencing technologies and their application in a basic research (Human Cell Atlas) and translational (Immuno-oncology) context."
     - name: Henrik Bengtsson
       inst: UCSF
       url: https://github.com/HenrikBengtsson
-      blurb: Henrik Bengtsson is the author of over 30 R packages in CRAN and Bioconductor, including matrixStats. His research is on statistics and bioinformatics with an emphasis on high-quality, reproducible method development, sustainable implementations, and large-scale processing.
-He is an Associate Professor in the Department of Epidemiology & Biostatistics at the University of California, San Francisco (UCSF), affiliated with the UCSF Helen Diller Family Comprehensive Cancer
-Center, and a member of the R Foundation and the R Consortium Infrastructure Steering Committee.
+      blurb: "Henrik Bengtsson is the author of over 30 R packages in CRAN and Bioconductor, including matrixStats. His research is on statistics and bioinformatics with an emphasis on high-quality, reproducible method development, sustainable implementations, and large-scale processing. He is an Associate Professor in the Department of Epidemiology & Biostatistics at the University of California, San Francisco (UCSF), affiliated with the UCSF Helen Diller Family Comprehensive Cancer Center, and a member of the R Foundation and the R Consortium Infrastructure Steering Committee."
     - name: Monica Chiogna
       inst: University of Bologna
       url: https://www.unibo.it/sitoweb/monica.chiogna2
