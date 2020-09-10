@@ -15,4 +15,4 @@ layout: default
 - [Wolfgang Huber](https://www.embl.de/research/units/genome_biology/huber/),
   European Molecular Biology Laboratory (EMBL), Heidelberg.
 - Federico Marini.
-- Kevin Rue-Albercht.
+- [Kevin Rue-Albercht](kevinrue.github.io), MRC WIMM Centre for Computational Biology, University of Oxford, UK.
