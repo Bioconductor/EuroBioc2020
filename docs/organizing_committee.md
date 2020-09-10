@@ -16,3 +16,5 @@ layout: default
   European Molecular Biology Laboratory (EMBL), Heidelberg.
 - Federico Marini.
 - Kevin Rue-Albercht.
+
+Sticker by Johannes Rainer.
