@@ -16,3 +16,4 @@ layout: default
   European Molecular Biology Laboratory (EMBL), Heidelberg.
 - Federico Marini.
 - [Kevin Rue-Albercht](kevinrue.github.io), MRC WIMM Centre for Computational Biology, University of Oxford, UK.
+Sticker by Johannes Rainer.
