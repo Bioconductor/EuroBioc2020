@@ -6,4 +6,6 @@ layout: default
 
 ## Abstract submission
 
-Abstract submission will open on 1 September 2020.
+We welcome submissions for talks, posters and workshops. 
+
+[Submit here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
