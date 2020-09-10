@@ -14,6 +14,12 @@ layout: default
 </a>
 </p>
 
+## Abstract submission open!
+
+Please, submit your abstract for talk, poster, or workshop [here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
+
+## General Information
+
 The European _Bioconductor_ meeting is aimed at biologists,
 bioinformaticians, statisticians, programmers and software engineers
 who use or contribute to the [Bioconductor
@@ -27,6 +33,14 @@ Bioconductor. The goals are to:
 The main conference will take place as a Virtual Conference on 14-18
 December 2020.
 
+## Invited speakers
+
+[Confirmed invited speakers](speakers).
+
+## Programme
+
+TBA.
+
 <!--
 
 ## Key Dates for virtual EuroBioc2020
@@ -37,15 +51,6 @@ December 2020.
 - 23 Nov: Notice of acceptance
 - 30 Nov: Registration deadline
 - 14-18 Dec: European Bioconductor Virtual Meeting
-
-
-## Programme
-
-TBA.
-
-## Invited speakers
-
-Invited speakers will be announced soon!
 
 
 ## Group discussions
