@@ -14,7 +14,7 @@ layout: default
 - Simone Bell, European Molecular Biology Laboratory (EMBL), Heidelberg.
 - [Wolfgang Huber](https://www.embl.de/research/units/genome_biology/huber/),
   European Molecular Biology Laboratory (EMBL), Heidelberg.
-- Federico Marini.
-- [Kevin Rue-Albercht](kevinrue.github.io), MRC WIMM Centre for Computational Biology, University of Oxford, UK.
+- [Federico Marini](https://federicomarini.github.io/), IMBEI - University Medical Center Mainz, Germany.
+- [Kevin Rue-Albrecht](kevinrue.github.io), MRC WIMM Centre for Computational Biology, University of Oxford, UK.
 
 Sticker by Johannes Rainer.
