@@ -46,7 +46,7 @@ TBA.
 We would like to acknowledge the financial support of our sponsors for
 making this event possible.
 
-<a href="https://www.r-project.org/foundation/">
+<a href="https://www.r-consortium.org/">
     <img src="./images/sponsors/RConsortium_Horizontal_Pantone.png"
          alt="R Consortium"
          width="500"
