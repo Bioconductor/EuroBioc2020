@@ -41,6 +41,32 @@ December 2020.
 
 TBA.
 
+## Sponsors
+
+We would like to acknowledge the financial support of our sponsors for
+making this event possible.
+
+<a href="https://www.r-consortium.org/">
+    <img src="./images/sponsors/RConsortium_Horizontal_Pantone.png"
+         alt="R Consortium"
+         width="400"
+         style="padding: 10px 10px; vertical-align: middle"
+     />
+</a>
+<a href="https://f1000research.com/">
+    <img src="./images/sponsors/Apricot.png"
+         alt="F1000 Research"
+         width="400"
+         style="padding: 10px 10px; vertical-align: middle"
+     />
+</a>
+<a href="https://www.stat.unipd.it/">
+    <img src="./images/sponsors/stat_unipd.png"
+         alt="Dept. of Statistical Sciences, University of Padova"
+         width="400"
+         style="padding: 10px 10px; vertical-align: middle"
+     />
+</a>
 <!--
 
 ## Key Dates for virtual EuroBioc2020
