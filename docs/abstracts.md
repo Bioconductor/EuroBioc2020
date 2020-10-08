@@ -10,9 +10,9 @@ We welcome submissions for talks, posters and workshops.
 
 ### Talks
 
-- Short talks (10 minutes) focusing on a package, an application note, or the presentation of a new research project that seeks input and collaborations from the comunity. 
+- Short talks (8 minutes + 2 minutes for questions) focusing on a package, an application note, or the presentation of a new research project that seeks input and collaborations from the comunity. 
 
-- Long talks (20 minutes) presenting novel scientific contributions.
+- Long talks (20 minutes + 5 minutes for questions) presenting novel scientific contributions.
 
 ### Workshops
 
