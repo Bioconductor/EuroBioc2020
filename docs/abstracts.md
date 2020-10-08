@@ -14,11 +14,15 @@ We welcome submissions for talks, posters and workshops.
 
 - Long talks (20 minutes + 5 minutes for questions) presenting novel scientific contributions.
 
+Please make it explicit, as part of your submission, whether your submission is for a short or large talk.
+
 ### Workshops
 
 - Short workshop (30 - 45 minutes) such as a demonstration of a package or a workflow.
 
 - Long workshop (1.5 - 2 hours) for an interactive workshop, where participants will be expected to perform an analysis themselves.
+
+Please make it explicit, as part of your submission, whether your submission is for a short or large workshop.
 
 ### Posters
 
