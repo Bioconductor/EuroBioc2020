@@ -1,6 +1,10 @@
 ---
 layout: default
 speakers:
+    - name: Sehyun Oh
+      inst: The City University of New York
+      url: https://cunyisph.org/team/sehyun-oh/
+      blurb: "Sehyun Oh is a postdoctoral fellow at the CUNY Graduate School of Public Health and Health Policy in Levi Waldron’s group. She is a molecular biologist by training with a PhD from University of Minnesota and a postdoc from Columbia University and transitioned into dry-lab bioinformatics. Her current project is focused on the development of approaches for multi-omic data analysis and implementation of bioinformatics workflows in the cloud-based platform."
     - name: Holger Heyn
       inst: CNAG-CRG
       url: https://www.cnag.crg.eu/teams/genome-research-unit/single-cell-genomics-team
@@ -33,10 +37,6 @@ speakers:
       inst: University of Trento
       url: http://segatalab.cibio.unitn.it/
       blurb: "Nicola Segata, Ph.D., is Associate Professor at the CIBIO Department at the University of Trento (Italy). His lab comprises more than 20 researchers and employs experimental metagenomic tools and novel computational approaches to study the diversity of the microbiome across conditions and populations and its role in human diseases and infections. The projects in the lab bring together computer scientists, microbiologists, statisticians, and clinicians and are generally focused on profiling microbiomes with strain-level resolution and on the meta-analysis of very large sets of metagenomes with novel computational tools. His work is supported by the European Research Council and by several other European agencies."
-    - name: Sehyun Oh
-      inst: The City University of New York
-      url: https://cunyisph.org/team/sehyun-oh/
-      blurb: "Sehyun Oh is a postdoctoral fellow at the CUNY Graduate School of Public Health and Health Policy in Levi Waldron’s group. She is a molecular biologist by training with a PhD from University of Minnesota and a postdoc from Columbia University and transitioned into dry-lab bioinformatics. Her current project is focused on the development of approaches for multi-omic data analysis and implementation of bioinformatics workflows in the cloud-based platform."
 ---
 
 {% include header.md %}
