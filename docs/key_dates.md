@@ -6,7 +6,8 @@ layout: default
 
 ## Abstract submission open!
 
-Please, submit your abstract for talk, poster, or workshop [here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
+Please, submit your abstract for talk, poster, or workshop
+[here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
 
 
 ## Key dates
