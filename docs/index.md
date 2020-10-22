@@ -80,7 +80,7 @@ making this event possible.
 ## Key Dates for virtual EuroBioc2020
 
 - 1 Sep: Registration opens
-- 15 Oct: Abstract subission opens
+- 15 Oct: Abstract submission opens
 - 30 Oct: Abstract submission deadline
 - 23 Nov: Notice of acceptance
 - 30 Nov: Registration deadline
