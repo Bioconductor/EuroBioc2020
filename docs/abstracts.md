@@ -10,7 +10,7 @@ layout: default
 ## Abstract submission
 
 Key dates and **abstract submission deadlines** are [available
-here](./key_dates.md).
+here](./key_dates).
 
 We welcome submissions for talks, posters and workshops. 
 
