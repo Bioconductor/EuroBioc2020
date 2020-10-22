@@ -5,12 +5,12 @@ layout: default
 {% include header.md %}
 
 
-## Key dates
-
-{% include key_dates.md %}
 
 
 ## Abstract submission
+
+Key dates and **abstract submission deadlines** are [available
+here](./key_dates.md).
 
 We welcome submissions for talks, posters and workshops. 
 
