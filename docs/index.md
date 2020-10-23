@@ -74,6 +74,15 @@ making this event possible.
      />
 </a>
 
+## Patronage
+
+<a href="https://www.biologia.unipd.it/">
+    <img src="./images/sponsors/bio_unipd.png"
+         alt="Dept. of Biology, University of Padova"
+         width="300"
+         style="padding: 0px 30px; vertical-align: middle"
+     />
+</a>
 
 <!--
 
