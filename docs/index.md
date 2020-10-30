@@ -16,6 +16,8 @@ layout: default
 
 ## Abstract submission open!
 
+### New extended deadline: November 16, 2020
+
 Please, submit your abstract for talk, poster, or workshop [here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
 
 ## General Information
