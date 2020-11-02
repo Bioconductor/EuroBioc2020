@@ -16,5 +16,6 @@ layout: default
   European Molecular Biology Laboratory (EMBL), Heidelberg.
 - [Federico Marini](https://federicomarini.github.io/), IMBEI - University Medical Center Mainz, Germany.
 - [Kevin Rue-Albrecht](kevinrue.github.io), MRC WIMM Centre for Computational Biology, University of Oxford, UK.
+- [Levi Waldron](https://waldronlab.io), CUNY Graduate School of Public Health and Health Policy, USA.
 
 Sticker by Johannes Rainer.
