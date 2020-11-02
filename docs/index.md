@@ -20,6 +20,12 @@ layout: default
 
 Please, submit your abstract for talk, poster, or workshop [here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
 
+## Registration open!
+
+### Deadline: December 7, 2020
+
+Please, register [here](https://www.eventbrite.com/e/eurobioc2020-tickets-127378088291)
+
 ## General Information
 
 The European _Bioconductor_ meeting is aimed at biologists,
