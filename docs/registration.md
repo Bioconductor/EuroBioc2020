@@ -6,7 +6,9 @@ layout: default
 
 ## Registrations
 
-Registration will open on 1 November 2020.
+Registration is open! Key dates and **registration deadlines** are [available here](./key_dates).
+
+Please, register [here](https://www.eventbrite.com/e/eurobioc2020-tickets-127378088291).
 
 <!-- Register at [https://eurobioc-2020.eventbrite.co.uk](https://eurobioc-2020.eventbrite.co.uk)
 
