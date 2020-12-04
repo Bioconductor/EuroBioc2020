@@ -47,7 +47,7 @@ December 2020.
 
 ## Programme
 
-TBA.
+[Conference schedule](conference_schedule).
 
 ## Sponsors
 
