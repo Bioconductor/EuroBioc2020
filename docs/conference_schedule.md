@@ -70,7 +70,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 16:10 - 16:20 | Elisa Salviato - SourceSet: a graphical model approach to identify primary genes in perturbed biological pathways |
 | 16:20 - 16:30 | Christian Holland - Estimation of transcription factor and pathway activities from bulk and single-cell transcriptomics data with dorothea and progeny |
 | 16:30 - 16:40 | Alejandro Cisterna García - Switching between mendelian genes space and clinical phenotypes space contributes to comparative Mendelian gene sets analysis |
-| 16:40 - 16:50 | Felix GM Ernst - MicrobiomeExperiment: a new class for microbiome data |
+| 16:40 - 16:50 | Leo Lahti - MicrobiomeExperiment: a new class for microbiome data |
 | 16:50 - 17:00 | Valeria Policastro - ROBIN (ROBustness In Network): for Comparison and Validation of communities |
 | 17:00 - 17:10 | Matteo Calgaro - Assessment of statistical methods from single cell, bulk RNA-seq, and metagenomics applied to microbiome data |
 | 17:10 - 17:20 | Riccardo Corradin - BNPmix: an R package to estimate Bayesian nonparametric mixtures |
@@ -121,7 +121,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 16:05 - 16:30 | Christophe Vanderaa - Standardised and reproducible analysis of mass spectrometry-based single-cell proteomics data |
 | 16:30 - 16:55 | Oliver Crook - The effect of phosphorylation on the spatial proteome |
 | 16:55 - 17:05 | Break |
-| 17:05 - 18:05 | Birds of a feather 3: The emerging R ecosystem for microbiome research (Felix GM Ernst) |
+| 17:05 - 18:05 | Birds of a feather 3: The emerging R ecosystem for microbiome research (Leo Lahti) |
 |  | Birds of a feather 4: Ten simple rules for thriving in bioinformatics research (Federico Marini) |
 | 18:05 - 18:20 | Break |
 | 18:20 - 19:05 | **Keynote: Henrik Bengtsson** |
@@ -138,4 +138,4 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 - Sonia García Ruiz - CoExp Web Application, a web application for the interactive use of co-expression networks
 - Kelly Eckenrode - SingleCellMultiModal: Integrating Multi-modal Single Cell Experiment datasets
 - Sehyun Oh - GenomicSuperSignature: interpretation of RNA-seq experiments through robust, efficient comparison to public databases
-- Leo Lathi - MicrobiomeExperiment: a new class for microbiome data
+- Leo Lahti - MicrobiomeExperiment: a new class for microbiome data
