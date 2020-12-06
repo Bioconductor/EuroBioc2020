@@ -30,7 +30,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 17:55 - 18:05 | Break |
 | 18:05 - 18:15 | Federico Marini - annoFuse and shinyFuse: Annotating, prioritizing, and interactively exploring putative oncogenic RNA fusions |
 | 18:15 - 18:25 | Rory Stark - Normalizing ChIP and ATAC sequencing data for differential analysis |
-| 18:25 - 18:35 | Anand Mayakonda - Methrix: a package for systematic aggregation and analysis of bisulfite sequencing data |
+| 18:25 - 18:35 | Reka Toth - Methrix: a package for systematic aggregation and analysis of bisulfite sequencing data |
 | 18:35 - 18:45 | Ricardo Omar Ramirez Flores - Decoupling statistics and networks: a crowdsourced systematic assessment of transcription factor activity estimation from transcriptomics data |
 | 18:45 - 19:00 | Break |
 | 19:00 - 20:00 | Birds of a feather 1:  Infrastructure to enable spatially resolved transcriptomics data analysis with Bioconductor (Dario Righelli) |
