@@ -317,7 +317,7 @@ Bioconductor includes a number of packages for performing differential analysis 
 
 ## Methrix: a package for systematic aggregation and analysis of bisulfite sequencing data
 
-_Speaker_: Anand Mayakonda
+_Speaker_: Reka Toth
 
 _Abstract_:
 Whole genome bisulfite sequencing (WGBS), measures DNA methylation at base-pair resolution resulting in large bedGraph like coverage files. Fundamental downstream analyses require summarization of coverage files into methylation and coverage matrices, whose dimensions rapidly increase along with the number of sequenced samples. Current options for processing such files are hindered by discrepancies in the file format specification, speed, and memory requirements. We developed methrix, an R package, which provides a toolset for systematic analysis of large datasets. Core functionality of the package includes a comprehensive bedGraph or similar tab-separated text file reader - which summarizes methylation calls based on annotated reference indices, infers and collapses strands, and handles uncovered reference CpG sites while facilitating a flexible input file format specification. Additional optimized functions for quality control filtering, sub-setting, and visualization allow user-friendly and effective processing of WGBS results. Additional arguments are available for working with large (n>100) cohorts. Easy integration with tools for differentially methylated region (DMR) calling and annotation further eases the analysis of genome-wide methylation data. Overall, methrix enriches established WGBS workflows by bringing together computational efficiency and versatile functionality.
