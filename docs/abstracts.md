@@ -44,4 +44,4 @@ submission is for a short or large workshop.
   presented in a dedicated remote session.
 
 
-[Submit here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference).
+<!-- [Submit here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2020/Conference). -->
