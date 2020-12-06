@@ -21,7 +21,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 15:30 - 15:40 | Break |
 | 15:40 - 16:05 | Simone Tiberi - distinct: a novel approach to differential analyses |
 | 16:05 - 16:15 | Break |
-| 16:15 - 17:00 | **Keynote: Sehyun Oh** |
+| 16:15 - 17:00 | **Keynote: Sehyun Oh - Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works** |
 | 17:00 - 17:15 | Break |
 | 17:15 - 17:25 | Pierre-Luc Germain - Doublet identification and characterization in single-cell data with scDblFinder |
 | 17:25 - 17:35 | Andrea Sottosanti - A new statistical approach for the simultaneous clustering of genes and cells in spatial transcriptomic experiments |
@@ -139,3 +139,4 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 - Kelly Eckenrode - SingleCellMultiModal: Integrating Multi-modal Single Cell Experiment datasets
 - Sehyun Oh - GenomicSuperSignature: interpretation of RNA-seq experiments through robust, efficient comparison to public databases
 - Leo Lahti - MicrobiomeExperiment: a new class for microbiome data
+- Ying Chen - bambu: reference-guided transcript discovery and quantification for long read RNA-Seq data
