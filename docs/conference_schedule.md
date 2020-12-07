@@ -17,7 +17,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 14:00 - 14:10 | Welcome and opening remarks |
 | 14:10 - 14:30 | **Martin Morgan - The Bioconductor Project: Updates and Directions** |
 | 14:30 - 14:45 | Kevin Rue-Albrecht - BiocChallenges presentation |
-| 14:45 - 15:30 | **Keynote: Holger Heyn** |
+| 14:45 - 15:30 | **Keynote: Holger Heyn - A spatially-resolved tumor immune cell atlas for precision immuno-oncology** |
 | 15:30 - 15:40 | Break |
 | 15:40 - 16:05 | Simone Tiberi - distinct: a novel approach to differential analyses |
 | 16:05 - 16:15 | Break |
@@ -54,7 +54,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 |  | Long Workshop 2: Rory Stark - Quantitiative analysis of ChiP-seq, ATAC-seq, and related DNA enrichment assays |
 | 18:00 - 18:15 | Break |
 | 18:15 - 19:15 | [Poster Session](#posters) |
-| 19:15 - 20:00 | Short Workshop 1: Mahmoud Ahmed - Integration of ChIP-seq and RNA-seq data in R |
+| 19:15 - 20:00 | Short Workshop 1: Marcel Ramos - Multi-omic Integration and Analysis of cBioPortal and TCGA data with MultiAssayExperiment |
 |  |  Short Workshop 2: Federico Agostinis - NewWave, new R package for dimensional reduction and batch effect removal for single cell RNA-seq data |
 
 ## Wednesday 16 December
@@ -98,7 +98,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 17:10 - 17:20 | Naji Faris - "Empower" the Biologist and "liberate" the Bioinformatician |
 | 17:20 - 17:30 | Break |
 | 17:30 - 18:15 | Short Workshop 5: Laurent Gatto - QFeatures: Quantitative features for mass spectrometry data |
-|  |  Short Workshop 6: Marcel Ramos - Multi-omic Integration and Analysis of cBioPortal and TCGA data with MultiAssayExperiment |
+|  |  Short Workshop 6: Mahmoud Ahmed - Integration of ChIP-seq and RNA-seq data in R |
 | 18:15 - 18:30 | Break |
 | 18:30 - 19:15 | Short Workshop 7: Johannes Rainer - Seamless Integration of Mass Spectrometry Data from Different Sources with the Spectra Package |
 | 18:30 - 20:00 | Long Workshop 5: Hector Roux de Bezieux - Trajectory inference across conditions: differential expression and differential progression |
@@ -140,3 +140,4 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 - Sehyun Oh - GenomicSuperSignature: interpretation of RNA-seq experiments through robust, efficient comparison to public databases
 - Leo Lahti - MicrobiomeExperiment: a new class for microbiome data
 - Ying Chen - bambu: reference-guided transcript discovery and quantification for long read RNA-Seq data
+- Witold Eryk Wolski, Christian Panse - Prolfqua: R package for proteomics label-free quantification
