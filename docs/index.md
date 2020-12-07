@@ -14,7 +14,7 @@ layout: default
 </a>
 </p>
 
-## Registration open!
+<!-- ## Registration open!
 
 ### Deadline: December 7, 2020
 
@@ -24,7 +24,7 @@ Please, register [here](https://www.eventbrite.com/e/eurobioc2020-tickets-127378
 
 The deadline for abstract submission has now passed; the conference is no longer accepting new submissions.
 
-The organising committee is currently reviewing submissions, and notifications will be sent to authors shortly.
+The organising committee is currently reviewing submissions, and notifications will be sent to authors shortly. -->
 
 ## General Information
 

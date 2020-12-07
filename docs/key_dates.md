@@ -4,11 +4,11 @@ layout: default
 
 {% include header.md %}
 
-## Registrations open!
+<!-- ## Registrations open!
 
 ### Deadline: December 7, 2020
 
-Please, register [here](https://www.eventbrite.com/e/eurobioc2020-tickets-127378088291)
+Please, register [here](https://www.eventbrite.com/e/eurobioc2020-tickets-127378088291) -->
 
 
 ## Key dates
