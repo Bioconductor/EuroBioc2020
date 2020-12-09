@@ -90,7 +90,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 14:45 - 14:55 | Break |
 | 14:55 - 15:20 | Etienne Becht - Infinity Flow: High-throughput single-cell quantification of 100s of proteins using conventional flow cytometry and machine learning |
 | 15:20 - 15:30 | Break |
-| 15:30 - 16:15 | **Keynote: Elsa Bernard** |
+| 15:30 - 16:15 | **Keynote: Elsa Bernard - Population Genomics and Personalized Prognosis in Myelodysplastic Syndromes** |
 | 16:15 - 16:25 | Break |
 | 16:25 - 16:50 | Abby Spangler - Evaluation of cell populations in the locus coeruleus through spatial transcriptomics |
 | 16:50 - 17:00 | Mike Smith - Browsing and searching the Bioconductor codebase |
