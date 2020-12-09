@@ -86,7 +86,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 13:30 - 14:00 | After-lunch informal coffee break |
-| 14:00 - 14:45 | **Keynote: Elsa Bernard** |
+| 14:00 - 14:45 | **Keynote: Elsa Bernard - Population Genomics and Personalized Prognosis in Myelodysplastic Syndromes** |
 | 14:45 - 14:55 | Break |
 | 14:55 - 15:20 | Long talk: Etienne Becht - Infinity Flow: High-throughput single-cell quantification of 100s of proteins using conventional flow cytometry and machine learning |
 | 15:20 - 15:30 | Break |
