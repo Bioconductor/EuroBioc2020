@@ -62,7 +62,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 14:00 - 14:15 | Announcement |
-| 14:15 - 15:00 | **Keynote: Nicola Segata** |
+| 14:15 - 15:00 | **Keynote: Monica Chiogna - Connections matter: a conversation between statistics and biology** |
 | 15:00 - 15:10 | Break |
 | 15:10 - 15:35 | Alejandro Reyes - Large-Scale Topological Changes Restrain Malignant Progression in Colorectal Cancer |
 | 15:35 - 16:00 | Elyas Heidari - scGCN: A Geometric Deep Learning Framework on Single-cell Gene Networks |
@@ -86,7 +86,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 13:30 - 14:00 | After-lunch informal coffee break |
-| 14:00 - 14:45 | **Keynote: Monica Chiogna - Connections matter: a conversation between statistics and biology** |
+| 14:00 - 14:45 | **Keynote: Nicola Segata** |
 | 14:45 - 14:55 | Break |
 | 14:55 - 15:20 | Etienne Becht - Infinity Flow: High-throughput single-cell quantification of 100s of proteins using conventional flow cytometry and machine learning |
 | 15:20 - 15:30 | Break |
@@ -131,13 +131,13 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 
 ## Posters
 
-- Constantin Ahlmann-Eltze - Interactions between explicit and latent covariates detect cell-type specific treatment effects in exploratory single cell analysis without clustering
-- Nils Kurzawa - Bioconductor packages for analysis of thermal proteome profiling data
-- Marcel Ramos - HCAMatrixBrowser: Making use of the HCA Matrix API in Bioconductor
-- Anna Diacofotakis - Activation of digestive-tract and stratified-epithelium transcriptional programs by promoter DNA demethylation in human tumor cells
-- Sonia García Ruiz - CoExp Web Application, a web application for the interactive use of co-expression networks
-- Kelly Eckenrode - SingleCellMultiModal: Integrating Multi-modal Single Cell Experiment datasets
-- Sehyun Oh - GenomicSuperSignature: interpretation of RNA-seq experiments through robust, efficient comparison to public databases
-- Leo Lahti - MicrobiomeExperiment: a new class for microbiome data
-- Ying Chen - bambu: reference-guided transcript discovery and quantification for long read RNA-Seq data
-- Witold Eryk Wolski, Christian Panse - Prolfqua: R package for proteomics label-free quantification
+- Poster 1: Constantin Ahlmann-Eltze - Interactions between explicit and latent covariates detect cell-type specific treatment effects in exploratory single cell analysis without clustering
+- Poster 2: Nils Kurzawa - Bioconductor packages for analysis of thermal proteome profiling data
+- Poster 3: Marcel Ramos - HCAMatrixBrowser: Making use of the HCA Matrix API in Bioconductor
+- Poster 4: Anna Diacofotakis - Activation of digestive-tract and stratified-epithelium transcriptional programs by promoter DNA demethylation in human tumor cells
+- Poster 5: Sonia García Ruiz - CoExp Web Application, a web application for the interactive use of co-expression networks
+- Poster 6: Kelly Eckenrode - SingleCellMultiModal: Integrating Multi-modal Single Cell Experiment datasets
+- Poster 7: Sehyun Oh - GenomicSuperSignature: interpretation of RNA-seq experiments through robust, efficient comparison to public databases
+- Poster 8: Leo Lahti - MicrobiomeExperiment: a new class for microbiome data
+- Poster 9: Ying Chen - bambu: reference-guided transcript discovery and quantification for long read RNA-Seq data
+- Poster 10: Witold Eryk Wolski, Christian Panse - Prolfqua: R package for proteomics label-free quantification
