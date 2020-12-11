@@ -4,7 +4,15 @@ layout: default
 
 {% include header.md %}
 
+## Cloud platform
+
+Live instances of the workshops can be launched in the cloud freely at <http://app.orchestra.cancerdatasci.org/>.
+
+This website pulls the latest Docker image for each workshop (see below).
+
 ## Workshops
+
+For each workshop, this table links to the `pkgdown` website, the GitHub source repository, and the Docker image.
 
 | Workshop | Source | Docker  |
 | :------- | :----- | ------- |
