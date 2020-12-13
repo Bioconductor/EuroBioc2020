@@ -4,18 +4,28 @@ layout: default
 
 {% include header.md %}
 
+# Keynotes
+
+## Large-scale high-resolution metagenomics: methods, data, infrastructure
+
+_Speaker_: Nicola Segata
+
+_Abstract_:
+The study of the human microbiome and its biomedical connections via metagenomic sequencing is quickly progressing with new computational methodologies able to uncover novel microbial features and massive datasets becoming available. In this scenario it is important to both develop methods with the highest resolution possible but also to scale them to many thousands of metagenomic samples and make them conveniently available to the community for downstream statistical and machine learning analysis and interpretation. In my talk I will describe current efforts on these topics and I will offer my viewpoint on what are the main needs and challenges in the field.
+
+
 # Birds Of a Feather
 
 ## Infrastructure to enable spatially resolved transcriptomics data analysis with Bioconductor
 
 _Organizers_: Dario Righelli, Helena L. Crowell, Lukas M Weber
 
-_Abstract_: 
+_Abstract_:
 Spatially resolved transcriptomics technologies allow joint collection of transcriptome-wide mRNA expression and spatial coordinates on a tissue slide. Multiple technologies are emerging (including 10x Genomics Visium, seqFISH, and MERFISH), which has led to several Bioconductor contributors actively developing object classes and methods for data analysis. In light of this, we propose an open discussion on what has been developed so far to provide a state-of-the-art analysis workflow, while delineating future directions.
 
 Goal 1: SpatialExperiment object class and infrastructure
 
-The primary goal for this meeting will be to consolidate ideas regarding how to implement flexible data object classes and infrastructure to accommodate various types of spatially resolved transcriptomics data. This will be based around the existing SpatialExperiment Bioconductor classes (https://bioconductor.org/packages/SpatialExperiment). In particular, there is a need to support additional features in the SpatialExperiment classes, including: 
+The primary goal for this meeting will be to consolidate ideas regarding how to implement flexible data object classes and infrastructure to accommodate various types of spatially resolved transcriptomics data. This will be based around the existing SpatialExperiment Bioconductor classes (https://bioconductor.org/packages/SpatialExperiment). In particular, there is a need to support additional features in the SpatialExperiment classes, including:
 
 Multiple samples accommodation.
 Storage of images for multiple samples and of different resolutions.
@@ -24,7 +34,7 @@ Allow images to be stored as paths and/or URLs (for later retrieval) and/or shar
 Outcome: After agreeing on a class design, modular tasks could be collected as GitHub issues, taken up by different developers at a later point in time, and merged through pull requests.
 In addition, we aim to decide on a strategy to draft a paper describing SpatialExperiment. For example, this could take the form of a short paper describing the class structure and showcasing examples from several technologies. This could be drafted as a collaborative paper, with sections assigned to developers working with each technology (e.g. Visium, seqFISH).
 
-Goal 2: Case-study analysis workflows 
+Goal 2: Case-study analysis workflows
 
 A secondary goal will be to develop vignette-style analysis workflows to be built around the SpatialExperiment object classes. These could be integrated within a larger online textbook on spatial resolved transcriptomics analysis with Bioconductor (currently under development at https://github.com/lmweber/OSTA-base). Examples include:
 
@@ -33,7 +43,7 @@ including, e.g., basic preprocessing, clustering and cell-subpopulation assignme
 Multi-sample scenario, e.g., where biological replicates from different experimental conditions or samples from different tissues are available.
 Examples using different technologies (e.g. Visium, seqFISH, etc).
 
-Outcome: Identify missing workflow examples in the current materials, and assign to developers working with each technology, to add as new workflow chapters in OSTA or other resources (e.g. GitHub repositories). 
+Outcome: Identify missing workflow examples in the current materials, and assign to developers working with each technology, to add as new workflow chapters in OSTA or other resources (e.g. GitHub repositories).
 
 While the conversation will be kept in an open format to enable participation from attendees coming from diverse backgrounds and experience levels, as already mentioned, we would like to document and structure the output of this BoF as one or more documents to provide headlines and points of view on spatially resolved transcriptomics data analysis in Bioconductor.
 
@@ -79,7 +89,7 @@ _Duration_: 90 mins
 
 _Authors_: Stefano Mangiola, Maria Doyle
 
-_Abstract_: 
+_Abstract_:
 This workshop will present how to perform analysis of RNA sequencing data following the tidy data paradigm. The tidy data paradigm provides a standard way to organise data values within a dataset, where each variable is a column, each observation is a row, and data is manipulated using an easy-to-understand vocabulary. Most importantly, the data structure remains consistent across manipulation and analysis functions.
 
 This can be achieved for RNA sequencing data with the tidySCE, tidybulk, tidyHeatmap and tidyverse packages. The tidybulk package provides a tidy data structure and a modular framework for bulk transcriptional analyses, the tidySCE package provides similar for single-cell transcriptional analyses, and tidyHeatmap provides a tidy implementation of ComplexHeatmap. These packages are part of the tidytranscriptomics suite that introduces a tidy approach to RNA sequencing data.
@@ -91,16 +101,16 @@ _Duration_: 90 mins
 _Author_: Rory Stark
 
 _Abstract_:
-This workshop will demonstrate the steps involved in performing a 
+This workshop will demonstrate the steps involved in performing a
 quantitative analysis of ChIP-seq data in _Bioconductor_
-(up to and including differential binding analysis), 
+(up to and including differential binding analysis),
 with some discussion of related assays such as ATAC-seq.
-Particular attention will be paid to processing of aligned reads, 
+Particular attention will be paid to processing of aligned reads,
 including blacklisting, greylisting, filtering for quality and duplication,
 and the particular challenges presented when normalizing these data.
-While the workshop follows the _DiffBind_ package vignette, the use of 
+While the workshop follows the _DiffBind_ package vignette, the use of
 a number of other _Bioconductor_ packages is discussed, including
-_csaw_, _ChIPQC_, _edgeR_, _DESeq2_, and 
+_csaw_, _ChIPQC_, _edgeR_, _DESeq2_, and
 _GreyListChIP_.
 
 ## Integration of ChIP-seq and RNA-seq data in R
@@ -110,7 +120,7 @@ _Duration_: 45 mins
 _Authors_: Mahmoud Ahmed
 
 _Abstract_:
-Researchers use ChIP binding data to identify potential transcription factor binding sites. Similarly, they use gene expression data from sequencing or microarrays to quantify the effect of the factor overexpression or knockdown on its targets. The integration of the binding and expression data therefore can be used to improve the understanding of a transcription factor function. In this workshop, we present a complete workflow for integrating the gene expression (RNA-seq) and DNA-binding data (ChIP-seq) to predict the combined function of two transcription factors using R/Bioconductor. The example we will be using in the workshop is from real datasets of two functionally and evolutionary related transcription factors YY1 and YY2 in HeLa cells. We will try to identify the factor-specific and the shared targets of the factors in this particular cell line. Then we will use a technique to find out the aggregate functions of the factors on their individual (inducer or repressor) and common targets (cooperative or competitive). The first half of the workshop would be dedicated to introduce and walk through the workflow interactively in a live demo. In the second half, we will explore the output of the analysis to answer specific questions in a quiz format followed by an open discussion. 
+Researchers use ChIP binding data to identify potential transcription factor binding sites. Similarly, they use gene expression data from sequencing or microarrays to quantify the effect of the factor overexpression or knockdown on its targets. The integration of the binding and expression data therefore can be used to improve the understanding of a transcription factor function. In this workshop, we present a complete workflow for integrating the gene expression (RNA-seq) and DNA-binding data (ChIP-seq) to predict the combined function of two transcription factors using R/Bioconductor. The example we will be using in the workshop is from real datasets of two functionally and evolutionary related transcription factors YY1 and YY2 in HeLa cells. We will try to identify the factor-specific and the shared targets of the factors in this particular cell line. Then we will use a technique to find out the aggregate functions of the factors on their individual (inducer or repressor) and common targets (cooperative or competitive). The first half of the workshop would be dedicated to introduce and walk through the workflow interactively in a live demo. In the second half, we will explore the output of the analysis to answer specific questions in a quiz format followed by an open discussion.
 
 ## NewWave, new R package for dimensional reduction and batch effect removal for single cell RNA-seq data
 
@@ -119,7 +129,7 @@ _Duration_: 45 mins
 _Authors_: Federico Agostinis, Chiara Romualdi, Gabriele Sales, Davide Risso
 
 _Abstract_:
-The fast development of single cell sequencing technologies in the recent years has generated a gap between the throughput of the experiments and the capability of analizing the generated data. 
+The fast development of single cell sequencing technologies in the recent years has generated a gap between the throughput of the experiments and the capability of analizing the generated data.
 In this package, NewWave,  we implement mini-batch stochastic gradient descent and the possibility to work with HDF5 files. We decided to use a negative binomial model following the observation that droplet sequencing technologies do not induce zero inflation in the data. Thanks to these improvements and the possibility of massively parallelize the estimation process using PSOCK clusters, we are able to speed up the computations with the same or even better results than zinbwave. This type of parallelization can be used on multiple hardware setups, ranging from simple laptops to dedicated server clusters. This, paired with the ability to work with out-of-memory data, enables us to analyze datasets with milions of cells.
 
 ## preciseTAD: a machine-learning framework for predicting boundaries of 3D genomic elements
@@ -182,7 +192,7 @@ _Duration_: 45 mins
 _Authors_: Laurent Gatto, Christophe Vanderaa
 
 _Abstract_:
-The QFeatures package provides infrastructure (that is classes to store data and the methods to process and manipulate them) to manage and analyse quantitative features from mass spectrometry experiments. It is based on the SummarizedExperiment and MultiAssayExperiment Bioconductor classes. Assays in a QFeatures object have a hierarchical relation: proteins are composed of peptides, themselves produced by spectra. Throughout the aggregation and processing of these data, the relations between assays are tracked and recorded, thus allowing users to easily navigate across spectra, peptide and protein quantitative data. In this workshop, we will demonstrate how to import data as QFeatures objects, how to process and analyse data in QFeatures objects, and how to interpret the results. Some familiarity with Bioconductor data analysis, in particular the SummarizedExperiment class, is recommended to follow this short workshop. 
+The QFeatures package provides infrastructure (that is classes to store data and the methods to process and manipulate them) to manage and analyse quantitative features from mass spectrometry experiments. It is based on the SummarizedExperiment and MultiAssayExperiment Bioconductor classes. Assays in a QFeatures object have a hierarchical relation: proteins are composed of peptides, themselves produced by spectra. Throughout the aggregation and processing of these data, the relations between assays are tracked and recorded, thus allowing users to easily navigate across spectra, peptide and protein quantitative data. In this workshop, we will demonstrate how to import data as QFeatures objects, how to process and analyse data in QFeatures objects, and how to interpret the results. Some familiarity with Bioconductor data analysis, in particular the SummarizedExperiment class, is recommended to follow this short workshop.
 
 
 ## Multi-omic Integration and Analysis of cBioPortal and TCGA data with MultiAssayExperiment
