@@ -6,6 +6,34 @@ layout: default
 
 # Keynotes
 
+## A spatially-resolved tumor immune cell atlas for precision immuno-oncology 
+
+_Speaker_: Holger Heyn
+
+_Abstract_: 
+We generated a single-cell tumor immune atlas, jointly analyzing immune cells from 217 patients and 13 cancer types, providing the basis for a patient stratification based on immune cell compositions and an automated cell annotation system. To enable the spatial mapping of immune populations for digital pathology, we developed SPOTlight, combining single-cell and spatial transcriptomics data and identifying striking immune cell patterns in tumor sections. With our tumor immune cell atlas and the versatile toolbox for precision oncology, we seek to advance currently applied stratification approaches for patient prognosis and immuno-therapy.
+
+## Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works
+
+_Speaker_: Sehyun Oh
+
+_Abstract_:
+In this talk, I will introduce one of the cloud-based genomics platforms called Terra and the several use cases leveraging this platform for the collaborative and more powerful bioinformatics working environment.
+
+## Connections matter: a conversation between statistics and biology
+
+_Speaker_: Monica Chiogna
+
+_Abstract_:
+Thanks to their semantic value and transparency in representing systems of interactions, biological networks have become the common language of many areas of biology. Despite this, incorporation of network-shaped knowledge into the statistical approaches aimed at addressing biological questions proves difficult, and, often, limited in scope. In this talk, I will discuss how graphical models can offer the ground on which statistics and biology can proficuously dialogue, by allowing the development of principled solutions for analyzing, modelling, interpreting and predicting biological phenomena.
+
+## Population Genomics and Personalized Prognosis in Myelodysplastic Syndromes
+
+_Speaker_: Elsa Bernard
+
+_Abstract_:
+Clinical management of patients with myelodysplastic syndromes (MDS) is challenged by heterogeneity in phenotypic presentation and outcomes. Despite our knowledge of the genes mutated in MDS and the implementation of routine profiling at diagnosis, it remains unclear how gene mutations should inform clinical decisions. We have assembled a cohort of 3,500 MDS patients with clinical, treatment and outcome data and performed comprehensive genomic profiling to incorporate molecular markers into WHO disease classification and risk scoring systems. By using statistically powered methods for classification and prognosis we 1) identify novel molecular subgroups each associated with distinct clinical presentation 2) significantly increase prognostic accuracy for overall survival and leukemic transformation; and 3) define predictive markers of favorable response to therapies for high-risk MDS (i.e. hypomethylating agents).
+
 ## Large-scale high-resolution metagenomics: methods, data, infrastructure
 
 _Speaker_: Nicola Segata
@@ -13,6 +41,21 @@ _Speaker_: Nicola Segata
 _Abstract_:
 The study of the human microbiome and its biomedical connections via metagenomic sequencing is quickly progressing with new computational methodologies able to uncover novel microbial features and massive datasets becoming available. In this scenario it is important to both develop methods with the highest resolution possible but also to scale them to many thousands of metagenomic samples and make them conveniently available to the community for downstream statistical and machine learning analysis and interpretation. In my talk I will describe current efforts on these topics and I will offer my viewpoint on what are the main needs and challenges in the field.
 
+## Future: Simple, Extendable, Generic Framework for Parallel Processing in R
+
+_Speaker_: Henrik Bengtsson
+
+The 'future' package aims at providing a minimal and
+unifying framework with atomic building blocks for asynchronous,
+parallel, and distributed computing in R. It is being used to run R
+code in parallel on the local computer, on remote machines, in the
+cloud, and on high-performance computing. Popular packages such as
+'shiny’, 'plumber', and 'drake' use futures internally. I will explain
+what futures are, and how they provide the necessary and sufficient
+foundation for constructing parallel map-reduce APIs such as
+'future.apply', 'furrr', and 'doFuture' (a generic 'foreach' adaptor).
+I will also talk about how Bioconductor’s 'BiocParallel' can fit into
+the future framework.
 
 # Birds Of a Feather
 

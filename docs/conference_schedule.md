@@ -124,7 +124,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 17:05 - 18:05 | Birds of a feather 3: The emerging R ecosystem for microbiome research (Leo Lahti) |
 |  | Birds of a feather 4: Ten simple rules for thriving in bioinformatics research (Federico Marini) |
 | 18:05 - 18:20 | Break |
-| 18:20 - 19:05 | **Keynote: Henrik Bengtsson** |
+| 18:20 - 19:05 | **Keynote: Henrik Bengtsson - Future: Simple, Extendable, Generic Framework for Parallel Processing in R** |
 | 19:05 - 19:15 | Kevin Rue-Albrecht - BiocChallenges closing |
 | 19:15 - 19:20 | Closing remarks |
 | 19:20 - 19:25 | Announcements |
