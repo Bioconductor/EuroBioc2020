@@ -14,7 +14,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 
 | Time | Speaker |
 | ---- | ------- |
-| 14:00 - 14:10 | Welcome and opening remarks |
+| 14:00 - 14:10 | [Welcome and opening remarks](https://docs.google.com/presentation/d/1FNAIVNHRCFZX6suoEyne0vs0ylq5iN5YK1E-9KxsfKk/edit?usp=sharing) |
 | 14:10 - 14:30 | **[Martin Morgan - The Bioconductor Project: Updates and Directions](https://docs.google.com/presentation/d/18gX_eqNgR9Jz6s_LGiYeT4KwCaqIHK4HuVtJZf0lv6Q/edit?usp=sharing)** |
 | 14:30 - 14:45 | [Kevin Rue-Albrecht - BiocChallenges presentation](https://kevinrue.github.io/BiocChallengesEuroBioc2020Slides/#1) |
 | 14:45 - 15:30 | **Keynote: Holger Heyn - A spatially-resolved tumor immune cell atlas for precision immuno-oncology** |
@@ -28,7 +28,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 17:35 - 17:45 | Kwame Forbes - Integration of preprocessed single-cell datasets with bulk differential analysis results for DESeq2 |
 | 17:45 - 17:55 | Brenda Pardo - Using VisiumExperiment objects at spatialLIBD package |
 | 17:55 - 18:05 | Break |
-| 18:05 - 18:15 | Federico Marini - annoFuse and shinyFuse: Annotating, prioritizing, and interactively exploring putative oncogenic RNA fusions |
+| 18:05 - 18:15 | [Federico Marini - annoFuse and shinyFuse: Annotating, prioritizing, and interactively exploring putative oncogenic RNA fusions](https://federicomarini.github.io/EuroBioc2020/#1) |
 | 18:15 - 18:25 | Rory Stark - Normalizing ChIP and ATAC sequencing data for differential analysis |
 | 18:25 - 18:35 | Reka Toth - Methrix: a package for systematic aggregation and analysis of bisulfite sequencing data |
 | 18:35 - 18:45 | Ricardo Omar Ramirez Flores - Decoupling statistics and networks: a crowdsourced systematic assessment of transcription factor activity estimation from transcriptomics data |
