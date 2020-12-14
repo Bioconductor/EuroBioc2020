@@ -15,7 +15,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 14:00 - 14:10 | Welcome and opening remarks |
-| 14:10 - 14:30 | [**Martin Morgan - The Bioconductor Project: Updates and Directions**](https://docs.google.com/presentation/d/18gX_eqNgR9Jz6s_LGiYeT4KwCaqIHK4HuVtJZf0lv6Q/edit?usp=sharing) |
+| 14:10 - 14:30 | **[Martin Morgan - The Bioconductor Project: Updates and Directions](https://docs.google.com/presentation/d/18gX_eqNgR9Jz6s_LGiYeT4KwCaqIHK4HuVtJZf0lv6Q/edit?usp=sharing)** |
 | 14:30 - 14:45 | [Kevin Rue-Albrecht - BiocChallenges presentation](https://kevinrue.github.io/BiocChallengesEuroBioc2020Slides/#1) |
 | 14:45 - 15:30 | **Keynote: Holger Heyn - A spatially-resolved tumor immune cell atlas for precision immuno-oncology** |
 | 15:30 - 15:40 | Break |
