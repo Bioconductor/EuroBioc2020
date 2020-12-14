@@ -86,7 +86,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 13:30 - 14:00 | After-lunch informal coffee break |
-| 14:00 - 14:45 | **Keynote: Nicola Segata** |
+| 14:00 - 14:45 | **Keynote: Nicola Segata - Large-scale high-resolution metagenomics: methods, data, infrastructure** |
 | 14:45 - 14:55 | Break |
 | 14:55 - 15:20 | Etienne Becht - Infinity Flow: High-throughput single-cell quantification of 100s of proteins using conventional flow cytometry and machine learning |
 | 15:20 - 15:30 | Break |
@@ -124,7 +124,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 17:05 - 18:05 | Birds of a feather 3: The emerging R ecosystem for microbiome research (Leo Lahti) |
 |  | Birds of a feather 4: Ten simple rules for thriving in bioinformatics research (Federico Marini) |
 | 18:05 - 18:20 | Break |
-| 18:20 - 19:05 | **Keynote: Henrik Bengtsson** |
+| 18:20 - 19:05 | **Keynote: Henrik Bengtsson - Future: Simple, Extendable, Generic Framework for Parallel Processing in R** |
 | 19:05 - 19:15 | Kevin Rue-Albrecht - BiocChallenges closing |
 | 19:15 - 19:20 | Closing remarks |
 | 19:20 - 19:25 | Announcements |
