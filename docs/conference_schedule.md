@@ -15,15 +15,15 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 14:00 - 14:10 | Welcome and opening remarks |
-| 14:10 - 14:30 | **Martin Morgan - The Bioconductor Project: Updates and Directions** |
-| 14:30 - 14:45 | Kevin Rue-Albrecht - BiocChallenges presentation |
+| 14:10 - 14:30 | [**Martin Morgan - The Bioconductor Project: Updates and Directions**](https://docs.google.com/presentation/d/18gX_eqNgR9Jz6s_LGiYeT4KwCaqIHK4HuVtJZf0lv6Q/edit?usp=sharing) |
+| 14:30 - 14:45 | [Kevin Rue-Albrecht - BiocChallenges presentation](https://kevinrue.github.io/BiocChallengesEuroBioc2020Slides/#1) |
 | 14:45 - 15:30 | **Keynote: Holger Heyn - A spatially-resolved tumor immune cell atlas for precision immuno-oncology** |
 | 15:30 - 15:40 | Break |
-| 15:40 - 16:05 | Simone Tiberi - distinct: a novel approach to differential analyses |
+| 15:40 - 16:05 | [Simone Tiberi - distinct: a novel approach to differential analyses](https://f1000research.com/slides/9-1450) |
 | 16:05 - 16:15 | Break |
-| 16:15 - 17:00 | **Keynote: Sehyun Oh - Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works** |
+| 16:15 - 17:00 | [**Keynote: Sehyun Oh - Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works**](https://drive.google.com/file/d/1EvFSA7alw5fYWssUB4l1istFiiFCdZub/view?usp=sharing) |
 | 17:00 - 17:15 | Break |
-| 17:15 - 17:25 | Pierre-Luc Germain - Doublet identification and characterization in single-cell data with scDblFinder |
+| 17:15 - 17:25 | [Pierre-Luc Germain - Doublet identification and characterization in single-cell data with scDblFinder](https://docs.google.com/presentation/d/1iIxntI3iYA3cAwxUkoce9p0cengOTwYD5iumWDtvWGs/edit#slide=id.p) |
 | 17:25 - 17:35 | Andrea Sottosanti - A new statistical approach for the simultaneous clustering of genes and cells in spatial transcriptomic experiments |
 | 17:35 - 17:45 | Kwame Forbes - Integration of preprocessed single-cell datasets with bulk differential analysis results for DESeq2 |
 | 17:45 - 17:55 | Brenda Pardo - Using VisiumExperiment objects at spatialLIBD package |
