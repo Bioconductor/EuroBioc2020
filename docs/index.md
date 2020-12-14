@@ -14,6 +14,11 @@ layout: default
 </a>
 </p>
 
+## The conference is live!
+
+Join us at:
+https://www.airmeet.com/e/0652b8c0-3a3e-11eb-babe-4130ba19b548
+
 <!-- ## Registration open!
 
 ### Deadline: December 7, 2020
