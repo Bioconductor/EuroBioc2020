@@ -21,7 +21,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 15:30 - 15:40 | Break |
 | 15:40 - 16:05 | [Simone Tiberi - distinct: a novel approach to differential analyses](https://f1000research.com/slides/9-1450) |
 | 16:05 - 16:15 | Break |
-| 16:15 - 17:00 | [**Keynote: Sehyun Oh - Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works**](https://drive.google.com/file/d/1EvFSA7alw5fYWssUB4l1istFiiFCdZub/view?usp=sharing) |
+| 16:15 - 17:00 | **[Keynote: Sehyun Oh - Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works](https://drive.google.com/file/d/1EvFSA7alw5fYWssUB4l1istFiiFCdZub/view?usp=sharing)** |
 | 17:00 - 17:15 | Break |
 | 17:15 - 17:25 | [Pierre-Luc Germain - Doublet identification and characterization in single-cell data with scDblFinder](https://docs.google.com/presentation/d/1iIxntI3iYA3cAwxUkoce9p0cengOTwYD5iumWDtvWGs/edit#slide=id.p) |
 | 17:25 - 17:35 | Andrea Sottosanti - A new statistical approach for the simultaneous clustering of genes and cells in spatial transcriptomic experiments |
