@@ -40,9 +40,9 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 
 | Time | Speaker |
 | ---- | ------- |
-| 14:00 - 14:45 | **Keynote: Britta Velten - Integrative analysis of multi-omics data** |
+| 14:00 - 14:45 | **[Keynote: Britta Velten - Integrative analysis of multi-omics data](https://drive.google.com/file/d/1drsc_YCvoidotp8Ai73DxWXFmJfYjWnn/view)** |
 | 14:45 - 14:55 | Break |
-| 14:55 - 15:20 | Angela Andreella - pARI package: valid double-dipping via permutation-based All Resolutions Inference |
+| 14:55 - 15:20 | [Angela Andreella - pARI package: valid double-dipping via permutation-based All Resolutions Inference](https://github.com/angeella/EuroBioc_2020_talk/blob/main/AA_talk_2020.pdf) |
 | 15:20 - 15:30 | Break |
 | 15:30 - 15:40 | Thomas Schwarzl - DEWSeq: a new data analysis package for eCLIP data showing improved RNA-binding site assignments for the ENCODE eCLIP data |
 | 15:40 - 15:50 | David Zhang - dasper: Detection of aberrant splicing events from RNA-sequencing data |
