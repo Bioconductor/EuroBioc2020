@@ -62,7 +62,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 14:00 - 14:15 | [Announcement: Wolfgang Huber](https://docs.google.com/presentation/d/1CJBBehBNYD6jPvbVrcUPVeJ1fGpJjHLXxlEGFx1Tchc/edit?usp=sharing) |
-| 14:15 - 15:00 | **Keynote: Monica Chiogna - Connections matter: a conversation between statistics and biology** |
+| 14:15 - 15:00 | **[Keynote: Monica Chiogna - Connections matter: a conversation between statistics and biology](slides/Chiogna.pdf)** |
 | 15:00 - 15:10 | Break |
 | 15:10 - 15:35 | Alejandro Reyes - Large-Scale Topological Changes Restrain Malignant Progression in Colorectal Cancer |
 | 15:35 - 16:00 | Elyas Heidari - scGCN: A Geometric Deep Learning Framework on Single-cell Gene Networks |
