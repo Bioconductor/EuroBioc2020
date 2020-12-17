@@ -94,7 +94,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 16:15 - 16:25 | Break |
 | 16:25 - 16:50 | Abby Spangler - Evaluation of cell populations in the locus coeruleus through spatial transcriptomics |
 | 16:50 - 17:00 | Mike Smith - Browsing and searching the Bioconductor codebase |
-| 17:00 - 17:10 | Charlotte Soneson - The Bioconductor teaching committee: A collaborative effort to consolidate Bioconductor-focused training material and establish a community of trainers |
+| 17:00 - 17:10 | [Charlotte Soneson - The Bioconductor teaching committee: A collaborative effort to consolidate Bioconductor-focused training material and establish a community of trainers](https://docs.google.com/presentation/d/1tOIsWNblMD-Gw9rLgO8PePUCIouFl7uxoCD_ngURSsQ/edit?usp=sharing) |
 | 17:10 - 17:20 | Naji Faris - "Empower" the Biologist and "liberate" the Bioinformatician |
 | 17:20 - 17:30 | Break |
 | 17:30 - 18:15 | Short Workshop 5: Laurent Gatto - QFeatures: Quantitative features for mass spectrometry data |
@@ -109,7 +109,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | Time | Speaker |
 | ---- | ------- |
 | 13:30 - 14:00 | After-lunch informal coffee break |
-| 14:00 - 14:45 | **Keynote: Luke Zappia - Interoperability between Bioconductor and Python for scRNA-seq analysis** |
+| 14:00 - 14:45 | **[Keynote: Luke Zappia - Interoperability between Bioconductor and Python for scRNA-seq analysis](https://f1000research.com/slides/9-1472)** |
 | 14:45 - 14:55 | Break |
 | 14:55 - 15:05 | Chen Meng - Interactive and comprehensive exploration of ExpressionSet using ExpressionSetViewer |
 | 15:05 - 15:15 | Alan Brian O'Callaghan - Scalable or density-preserving (but not both) non-linear dimensionality reduction with snifter and densvis |
