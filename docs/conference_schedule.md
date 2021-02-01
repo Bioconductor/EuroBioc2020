@@ -24,7 +24,7 @@ The conference will take place on 14-18 December 2020, from 14:00 to 20:00 CET.
 | 16:15 - 17:00 | **[Keynote: Sehyun Oh - Bioinformatics On Cloud: How to leverage cloud-based resources for your bioinformatics works](slides/SehyunOh.pdf)** |
 | 17:00 - 17:15 | Break |
 | 17:15 - 17:25 | [Pierre-Luc Germain - Doublet identification and characterization in single-cell data with scDblFinder](https://docs.google.com/presentation/d/1iIxntI3iYA3cAwxUkoce9p0cengOTwYD5iumWDtvWGs/edit#slide=id.p) |
-| 17:25 - 17:35 | Andrea Sottosanti - A new statistical approach for the simultaneous clustering of genes and cells in spatial transcriptomic experiments |
+| 17:25 - 17:35 | [Andrea Sottosanti - A new statistical approach for the simultaneous clustering of genes and cells in spatial transcriptomic experiments](slides/Sottosanti.pdf) |
 | 17:35 - 17:45 | Kwame Forbes - Integration of preprocessed single-cell datasets with bulk differential analysis results for DESeq2 |
 | 17:45 - 17:55 | Brenda Pardo - Using VisiumExperiment objects at spatialLIBD package |
 | 17:55 - 18:05 | Break |
